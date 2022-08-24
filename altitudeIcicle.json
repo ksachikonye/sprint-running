@@ -1,0 +1,80 @@
+{
+	"name": "firstCurve",
+	"children": [
+		{
+			"name": "means",
+			"children": [
+				  {"name": "Altitude", "size": 500.6},
+			      {"name": "Cadence", "size": 98.4},
+			      {"name": "Speed", "size": 5.2},
+			      {"name": "StanceTime", "size": 168.6},
+			      {"name": "StanceTimeBalance", "size": 50.01},
+			      {"name": "StepLength", "size": 1558.75},
+			      {"name": "VerticalOscillation", "size": 94.98},
+			      {"name": "VerticalRatio", "size": 5.4}
+			
+			]
+
+		}
+	]
+},
+{
+		"name": "firstStraight",
+	"children": [
+		{
+			"name": "means",
+			"children": [
+				  {"name": "Altitude", "size": 504.34},
+			      {"name": "Cadence", "size": 93.14},
+			      {"name": "Speed", "size": 4.8},
+			      {"name": "StanceTime", "size": 170},
+			       {"name": "StanceTimeBalance", "size": 50.71},
+			      {"name": "StepLength", "size": 1593.85},
+			      {"name": "VerticalOscillation", "size": 101.21},
+			      {"name": "VerticalRatio", "size": 5.99}
+			
+			]
+
+		}
+	]
+},
+{
+		"name": "secondCurve",
+	"children": [
+		{
+			"name": "means",
+			"children": [
+				  {"name": "Altitude", "size": 507.4},
+			      {"name": "Cadence", "size": 91.6},
+			      {"name": "Speed", "size": 4.5},
+			      {"name": "StanceTime", "size": 174.8},
+			       {"name": "StanceTimeBalance", "size": 49.41},
+			      {"name": "StepLength", "size": 1514.13},
+			      {"name": "VerticalOscillation", "size": 97.56},
+			      {"name": "VerticalRatio", "size": 6.22}
+			
+			]
+
+		}
+	]
+},
+{
+		"name": "lastStretch",
+	"children": [
+		{
+			"name": "means",
+			"children": [
+				  {"name": "Altitude", "size": 506.6},
+			      {"name": "Cadence", "size": 89.4},
+			      {"name": "Speed", "size": 4.43},
+			      {"name": "StanceTime", "size": 183},
+			       {"name": "StanceTimeBalance", "size": 48.89},
+			      {"name": "StepLength", "size": 1543.7},
+			      {"name": "VerticalOscillation", "size": 102.7},
+			      {"name": "VerticalRatio", "size": 6.4}
+			
+			]
+
+		}
+	]
+}
